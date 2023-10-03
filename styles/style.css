@@ -1,0 +1,32 @@
+p, h1 {color: red;
+
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+#descr-id{
+    color: blueviolet;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+.class1{
+    width: 300px;
+    border: 1px solid black;
+    
+}
+
+a:hover{
+    color: green;
+}
+
+html{
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif; 
+}
